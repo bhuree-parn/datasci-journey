@@ -21,7 +21,7 @@ By learning independently and building a foundation in data science during medic
 - *(coming soon — first DataCamp project to be added here)*  
 
 ## 📓 Journal
-See [learning_journal.md](learning_journal.md) for my notes after each checkpoint.
+See [learning_journal.md](learning_journal.md.txt) for my notes after each checkpoint.
 
 ---
 
