@@ -7,3 +7,15 @@
 
 ## 2025-09-13
 - Practicing my first edit and commit.
+
+## 2025-09-14 – First DataCamp Project & GitHub Progress
+- Today I finally started to understand (–ish) how GitHub works. Learned how to commit, push, and pull, and even uploaded my first project.  
+- It still feels a bit messy, but I’m getting there, and I’ll keep updating my progress here.  
+### Project: Stack Overflow Trends
+- This project came right after finishing the first four mini-courses: *Introduction to R, Intermediate R, Introduction to the Tidyverse, and Data Manipulation with dplyr*.  
+- During the courses, I learned each function on its own — but in this project, I finally saw **how they all connect together** to solve a real problem.  
+- Example: using `filter()` + `group_by()` + `summarize()` to reshape the dataset and then applying ggplot2 for visualization — this workflow clicked for me.  
+- It made me realize that knowing syntax isn’t enough; what matters is combining tools in sequence to produce insights.  
+- Even though the dataset was about programming languages, it felt very similar to how one would handle patient records or survey data in healthcare.  
+- Big takeaway: **understanding context and workflow matters more than just memorizing functions**.  
+- I’m proud of this as my first very small/basic project — it represents my first step in coding and data analysis.
