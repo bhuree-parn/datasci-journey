@@ -1,0 +1,6 @@
+# Data Science Journey
+
+## 2025-09-13
+- First test entry.
+- Repo cloned successfully!
+- Goal: use this journal to track my learning.
