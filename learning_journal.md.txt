@@ -4,3 +4,6 @@
 - First test entry.
 - Repo cloned successfully!
 - Goal: use this journal to track my learning.
+
+## 2025-09-13
+- Practicing my first edit and commit.
